@@ -1,0 +1,14 @@
+name: Lifeline
+main: MonoAdrian23\Lifeline
+api: 3.0.0
+mcpe-protocol: [408]
+version: "1.0"
+author: MonoAdrian23
+commands:
+  lifeline:
+    description: "§bZeige die Online-Zeit an"
+    permission: "lifeline.use"
+    aliases:
+    - lf
+    default: op
+
