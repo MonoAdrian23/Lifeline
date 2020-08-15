@@ -6,7 +6,7 @@ version: "1.0"
 author: MonoAdrian23
 commands:
   lifeline:
-    description: "§bOnlinezeit Belohnungen"
+    description: "§bOnlinezeit Belohnungen via UI"
     permission: "lifeline.use"
     aliases:
     - lf
